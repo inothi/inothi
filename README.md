@@ -15,7 +15,7 @@
 <h1></h1>
 
 <h4>
-  💞️ Actually, I'm looking for a first job as junior front-end developer.
+  💞️ Actually, I'm looking for a internship or first job as junior front-end developer.
 
 </h4>
 
@@ -24,23 +24,27 @@
 <h3>Languages and tools:</h3>
 
 <h4>Front-end:</h4>
-<a href="https://www.w3schools.com/html/default.asp"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>
-<a href="/"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></a>
-<a href="/"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></a>
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
 <br />
+
 <h4>Tools:</h4>
-<a href="/"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></a>
-<a href="/"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></a>
-<a href="/"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>
-<a href="/"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></a>
-<a href="/"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a>
-<a href="/"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></a>
-<a href="/"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"></a>
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></a>
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></a>
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></a>
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a>
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></a>
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"></a>
 <br />
+
 <h4>UI/UX Design:</h4>
-<a href="/"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></a>
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></a>
 <br />
 <br />
+<br />
+
 <h3>Find me:</h3>
 <a href="https://linkedin.com/in/inothi/"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
 
