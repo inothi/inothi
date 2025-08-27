@@ -24,7 +24,7 @@
 <h3>Languages and tools:</h3>
 
 <h4>Front-end:</h4>
-<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
 <br />
