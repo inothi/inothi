@@ -24,13 +24,13 @@
 <h3>Languages and tools:</h3>
 
 <h4>Front-end:</h4>
-<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/inothi"><img alt="HTML 5" width="75" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS 3"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
 <br />
 
 <h4>Libraries & frameworks:</h4>
-<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></a>
 <br />
@@ -41,7 +41,6 @@
 
 <h4>Other tools:</h4>
 <a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/inothi"><img width="75" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></a>
 <br />
